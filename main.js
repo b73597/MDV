@@ -5,6 +5,8 @@
 // Project 1
 // First day of the rest of my life
 
+console.log("added code");
+
 // my variables
 var myName = "Eddy Davila"
 var takeBus = true;
