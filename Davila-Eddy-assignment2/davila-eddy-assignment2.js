@@ -1,3 +1,4 @@
+// Getting familiar with the terminal. (pushing files/pulling files)
 //alert("JavaScript works!");
 
 // Eddy O. Davila
